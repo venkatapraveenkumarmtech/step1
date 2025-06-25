@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>PropetiesAndMethod</StartupObject>
+    <StartupObject>_1_method</StartupObject>
   </PropertyGroup>
   <PropertyGroup />
   <ItemGroup>
@@ -47,8 +47,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="array1.cs" />
+    <Compile Include="array2.cs" />
+    <Compile Include="array3.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="Class2.cs" />
+    <Compile Include="conditonalandlogicalarthimetic.cs" />
+    <Compile Include="converstions.cs" />
+    <Compile Include="methods\1_method.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="PropetiesAndMethod.cs" />
