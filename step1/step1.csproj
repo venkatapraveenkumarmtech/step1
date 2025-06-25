@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Class1</StartupObject>
+    <StartupObject>PropetiesAndMethod</StartupObject>
   </PropertyGroup>
   <PropertyGroup />
   <ItemGroup>
@@ -48,8 +48,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="Class2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PropetiesAndMethod.cs" />
+    <Compile Include="varanddynamic.cs" />
+    <Compile Include="variable1class.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
