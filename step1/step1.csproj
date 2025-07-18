@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>_1_method</StartupObject>
+    <StartupObject>step1.student3</StartupObject>
   </PropertyGroup>
   <PropertyGroup />
   <ItemGroup>
@@ -52,12 +52,15 @@
     <Compile Include="array3.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="Class2.cs" />
+    <Compile Include="class_and_object1.cs" />
     <Compile Include="conditonalandlogicalarthimetic.cs" />
     <Compile Include="converstions.cs" />
+    <Compile Include="explain.cs" />
     <Compile Include="methods\1_method.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="PropetiesAndMethod.cs" />
+    <Compile Include="Task.cs" />
     <Compile Include="varanddynamic.cs" />
     <Compile Include="variable1class.cs" />
   </ItemGroup>
